@@ -1,9 +1,6 @@
 <h2 align="left">( •̀ ω •́ )✧</h2>
 ---
-https://github-profile-trophy.vercel.app/?username=mer315&theme=rose&margin-w=15&no-bg=true
-https://github.com/ryo-ma/github-profile-trophy
----
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mer315&show_icons=true&title_color=ff2d9c&text_color=ffffff&bg_color=2d223c&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
@@ -11,7 +8,7 @@ https://github.com/ryo-ma/github-profile-trophy
 
 ### 🛠️ Tech Stack
 
-<p align="center">
+<p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
