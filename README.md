@@ -1,5 +1,4 @@
 <h2 align="left">( •̀ ω •́ )✧</h2>
----
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mer315&show_icons=true&title_color=ff2d9c&text_color=ffffff&bg_color=2d223c&locale=en&layout=compact" alt="Top Languages" />
 </p>
@@ -36,6 +35,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mer315&show_icons=true&theme=synthwave&locale=en" alt="GitHub Stats" />
 </p>
