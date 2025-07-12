@@ -1,5 +1,7 @@
-<h3 align="center">( •̀ ω •́ )✧</h3>
-
+<h2 align="left">( •̀ ω •́ )✧</h2>
+---
+[![Trophy](https://github-profile-trophy.vercel.app/?username=mer315&theme=rose&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mer315&show_icons=true&title_color=ff2d9c&text_color=ffffff&bg_color=2d223c&locale=en&layout=compact" alt="Top Languages" />
 </p>
