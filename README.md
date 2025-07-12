@@ -1,7 +1,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-![Sumedha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssumedha&show_icons=true&theme=tokyonight&border_radius=15)
+![Sumedha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mer315&show_icons=true&theme=tokyonight&border_radius=15)
 
 
 <h3 align="left">Languages and Tools:</h3>
