@@ -1,6 +1,6 @@
 # Hello there✨
 
-Check it out live 👉 [ssumedhav.netlify.app](https://ssumedhav.netlify.app)
+Check out my portfolio 👉 [ssumedhav.netlify.app](https://ssumedhav.netlify.app)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
