@@ -1,4 +1,4 @@
-# ✨ Portfolio Website
+# ✨ My Portfolio
 
 Check it out live 👉 [ssumedhav.netlify.app](https://ssumedhav.netlify.app)
 
